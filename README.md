@@ -139,5 +139,4 @@ Les vulnérabilités trouvées:
 
 <img width="1919" height="511" alt="image" src="https://github.com/user-attachments/assets/a42f6ae6-54e2-4470-8a6d-e3d10d5209b1" />
 
-# 3. Migration persistante du rapport complet généré vers le dossier dédié
 

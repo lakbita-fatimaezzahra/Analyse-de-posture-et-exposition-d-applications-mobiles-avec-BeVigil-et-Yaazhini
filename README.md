@@ -27,7 +27,8 @@ mkdir lab-mobile-security
 cd lab-mobile-security
 mkdir 00-scope, 01-bevigil, 02-yaazhini, 03-triage, 04-report
 
-<img width="553" height="776" alt="Screenshot 2026-05-19 143038" src="https://github.com/user-attachments/assets/57456195-1003-4564-85f2-826f3c46d77d" />
+<img width="553" height="776" alt="Screenshot 2026-05-19 143038" src="https://github.com/user-attachments/assets/d484bd3b-f2e8-489e-978c-5d089f27e3e8" />
+
 
 ## Rôle des Dossiers
 
@@ -42,7 +43,9 @@ mkdir 00-scope, 01-bevigil, 02-yaazhini, 03-triage, 04-report
 *04-report/ : Livrable final contenant les vulnérabilités validées et corrélées aux référentiels de sécurité.
 
 **## 2. Intégrité de la Cible & Fiche d'Analyse (00-scope)**
+
  Importation et Calcul de l'Empreinte (SHA-256):
+
 L'application cible DivaApplication.apk a été déplacée dans le dossier de scope. Afin de garantir qu'aucune altération ou corruption n'ait lieu durant l'analyse, son
 
 empreinte numérique unique a été calculée :
